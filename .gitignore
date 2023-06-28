@@ -1,0 +1,5 @@
+.venv
+*.db
+pyproject.toml
+.env
+.idea
